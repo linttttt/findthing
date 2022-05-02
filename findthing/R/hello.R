@@ -10,4 +10,6 @@ hello <- function() {
 
 # heplers ------------------------------------------------------------------
 
-
+greeting <- function(){
+  "how are you?"
+}
